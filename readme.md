@@ -1,6 +1,7 @@
 # CODIGO DE COLORES
 
-## `GRUPO 0 - COLORES BASICOS 0;30 - 37`
+## GRUPO 0
+COLORES BASICOS 0;30 - 37
 ```
 negro="\e[0;30m"
 rojo="\e[0;31m"
