@@ -1,6 +1,6 @@
-CODIGO DE COLORES
+## CODIGO DE COLORES
 
-#0COLORES BASICOS: 0;30 - 37
+# 0COLORES BASICOS: 0;30 - 37
 > negro="\e[0;30m"
 rojo="\e[0;31m"
 verde="\e[0;32m"
