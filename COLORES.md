@@ -1,5 +1,4 @@
 CODIGO DE COLORES
-#!/bin/bash
 
 #0COLORES BASICOS: 0;30 - 37
 negro="\e[0;30m"
