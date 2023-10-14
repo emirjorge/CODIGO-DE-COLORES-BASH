@@ -1,14 +1,14 @@
 # CODIGO DE COLORES
 
 ## GRUPO 0 - COLORES BASICOS: 0;30 - 37
-'negro="\e[0;30m"'
-'rojo="\e[0;31m"'
+`negro="\e[0;30m"
+rojo="\e[0;31m"
 verde="\e[0;32m"
 amarillo="\e[0;33m"
 azul="\e[0;34m"
 morado="\e[0;35m"
 celeste="\e[0;36m"
-blanco="\e[0;37m"
+blanco="\e[0;37m"`
 
 ## GRUPO 1 - COLORES BASICOS NEGRITA: 1;30 - 37
 bnegro="\e[1;30m"
